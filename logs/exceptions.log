@@ -1,0 +1,208 @@
+2024-11-12 11:30:54 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:45:46 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:46:31 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:48:16 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:48:51 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:49:04 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:49:27 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:49:29 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:49:51 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:49:51 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:49:58 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:50:00 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+2024-11-12 11:51:05 [ERROR]: uncaughtException: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+Error: Cannot find module './middlewares/apiKeyValidator'
+Require stack:
+- H:\IMAGE TO WEBP API project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1249:15)
+    at Function._load (node:internal/modules/cjs/loader:1075:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (H:\IMAGE TO WEBP API project\app.js:13:25)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
